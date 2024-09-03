@@ -12,5 +12,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <Windows.h>
+#include "c-essentials.h"
 
 #endif //PCH_H
